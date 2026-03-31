@@ -47,6 +47,3 @@ i like to think about solutions to problems in order to make the page functional
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-## Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AG2904&layout=compact)
