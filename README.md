@@ -52,3 +52,6 @@ i like to think about solutions to problems in order to make the page functional
  * Hexagonal Arquitecture, Domain Driven Design(DDD), Clean Arquitecture and Solid Principles.
  
  * Testing API, proposed by Robert Martin
+
+## 📊 Statistics  
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=AG2904&show_icons=true&theme=radical)  
