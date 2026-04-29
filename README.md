@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-guilarte-325538328)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresguilartelamuno@gmail.com)
 
-I'm an Computer Science student at Universidad Católica Andrés Bello (UCAB) in Venezuela, in the last stages my career. I really love to learn and test new ideas with any kind of programming technology (languages, databases, frameworks, cloud services, containers), always in search of improving my programming skills but also my logic reasoning and design thinking, alongside people from whom I can share and learn any kind of knowledge or experience.
+I'm an Computer Science student at Universidad Católica Andrés Bello (UCAB) in Venezuela, in the last stages of my career. I really love to learn and test new ideas with any kind of programming technology (languages, databases, frameworks, cloud services, containers), always in search of improving my programming skills but also my logic reasoning and design thinking, alongside people from whom I can share and learn any kind of knowledge or experience.
 
 I have lot of interest in web development and cybersecurity, in the backend, because 
 i like to think about solutions to problems in order to make the page functional and also make it secure against posible attacks, right now i don't have much knowledge in the cybersecurity area but i want to expand it the most posible.
