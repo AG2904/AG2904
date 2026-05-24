@@ -9,7 +9,7 @@
 I'm an Computer Science student at Universidad Católica Andrés Bello (UCAB) in Venezuela, in the last stages of my career. I really love to learn and test new ideas with any kind of programming technology (languages, databases, frameworks, cloud services, containers), always in search of improving my programming skills but also my logic reasoning and design thinking, alongside people from whom I can share and learn any kind of knowledge or experience.
 
 I have lot of interest in web development and cybersecurity, in the backend, because 
-i like to think about solutions to problems in order to make the page functional and also make it secure against posible attacks, right now i don't have much knowledge in the cybersecurity area but i want to expand it the most posible.
+i like to think about solutions to problems in order to make the page functional and also make it secure against posible attacks, right now i don't have much knowledge in the cybersecurity area but i want to expand it the most posible, in the same way i'm learning front-end technologies to be a more complete developer because in that way i could cover more areas in software engineering and in software development.
 
 ## Main tools⚙️
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -43,6 +43,7 @@ i like to think about solutions to problems in order to make the page functional
 
 ## Studying🧠
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
