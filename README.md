@@ -8,8 +8,7 @@
 
 I'm an Computer Science student at Universidad Católica Andrés Bello (UCAB) in Venezuela, in the last stages of my career. I really love to learn and test new ideas with any kind of programming technology (languages, databases, frameworks, cloud services, containers), always in search of improving my programming skills but also my logic reasoning and design thinking, alongside people from whom I can share and learn any kind of knowledge or experience.
 
-I have lot of interest in web development and cybersecurity, in the backend, because 
-i like to think about solutions to problems in order to make the page functional and also make it secure against posible attacks, right now i don't have much knowledge in the cybersecurity area but i want to expand it the most posible, in the same way i'm learning front-end technologies to be a more complete developer because in that way i could cover more areas in software engineering and in software development.
+I have lot of interest in web development and cybersecurity, in the backend, because I like to think about solutions to problems in order to make the page functional and also make it secure against posible attacks, right now I don't have much knowledge in the cybersecurity area but I want to expand it the most posible, in the same way I'm learning front-end technologies to be a more complete developer because in that way I could cover more areas in software engineering and in software development.
 
 ## Main tools⚙️
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
